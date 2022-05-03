@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: ontap-system-manager.html 
+keywords: announcements, documentation, ontap system manager, system manager 
+summary: 現在市面上已普遍推出更新版本、我們想在此宣布、我們已將重新設計的內容加入docs.netapp.com中、以供使用。ONTAP ONTAP 
+last_modified: 23-Jan-2020 
+---
+= 適用於《系統管理程式》的文件ONTAP
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+現在市面上已普遍推出更新版本、我們想在此宣布、我們已將重新設計的內容加入docs.netapp.com中、以供使用。ONTAP ONTAP
+
+從完全重新設計的《不只是用作更新的功能》9.7開始ONTAP 、ONTAP 透過ONTAP 直覺式的圖形化使用者介面、簡化了功能。新儀表板會在單一畫面上顯示主要叢集狀態和效能。
+
+此外、還重新設計了《不適用》的《ONTAP 不適用》文件。易於瀏覽的內容既快速又簡單易用。觀看內嵌影片、快速瞭解主要管理工作的總覽。
+
+前往 https://docs.netapp.com/us-en/ontap/index.html["系統管理程式文件ONTAP"] 開始使用。
+
+image:ontap-system-manager.gif["Cloud Manager文件中Cloud Compliance內容的快照"]。

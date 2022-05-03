@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="803bd26955836f9634f10ba8af48614f" category="summary">我們已聽取您的意見、並從HTML文件新增下載PDF的功能。如此一來、您就能輕鬆隨身攜帶我們的內容。</block>
+  <block id="bbb76505e315b9dd1f97ba9cb0022054" category="doc">下載PDF</block>
+  <block id="7df391c285d7e6c78e86d5a5d8e85dfc" category="paragraph">您可以使用幾種不同的方式下載PDF。</block>
+  <block id="5e96e0c965637e8d0d23689cd0a46cd8" category="paragraph">第一種方法是下載您目前正在檢視的頁面PDF。</block>
+  <block id="821a5ebb1d51d03da65c0dea068a08f3" category="inline-image-macro">頁面頂端會出現此主題的「下載PDF」選項快照。</block>
+  <block id="4c5481577310f0287a454a3cc7910d93" category="paragraph"><block ref="4c5481577310f0287a454a3cc7910d93" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="acfa8c54da0a1579d3178a4319523caf" category="paragraph">左側目錄上方有更多選項可供選擇。按一下「*下載PDF*」、您會看到選項、以產生整個文件網站的PDF、整個區段（如果區段有多個頁面）、或只是您正在檢視的頁面。</block>
+  <block id="0d31ed50fefdac3efe21b5296f6c66fd" category="inline-image-macro">出現在目錄上方的「下載PDF」選項快照。</block>
+  <block id="404b24c932f447075943208512d66e57" category="paragraph"><block ref="404b24c932f447075943208512d66e57" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9a70913baf52c93bdadc18f8174f4bde" category="paragraph">我們仍在使用此功能、因此現在請考慮「下載PDF」做為試用版功能。有幾個已知問題、例如PDF中指向HTML頁面的連結。</block>
+  <block id="0f026a26434684b72316596393024ebd" category="paragraph">您是否注意到PDF標題頁底部的日期訊息？我們之所以這麼做、是因為我們不斷更新和改善內容、所以您應該計畫在短時間內使用這些PDF。例如、如果您要搭機或是要前往無法使用網際網路的安全地點、他們就很有幫助。您不應該在同一個PDF月後再參考、這是很好的機會、因為它會過時。請務必下載最新內容。</block>
+  <block id="45f90aa9fdda1e160068ad1d4c7e4668" category="summary">我們最近在ONTAP Select GitHub撰寫平台上新增了有關功能的內容。</block>
+  <block id="bb3dde2aa0cf6fd38af6d0f43b2a1619" category="doc">文件供您使用ONTAP Select</block>
+  <block id="2aaef326b401424ff55fdde68a0ce593" category="paragraph">我們最近新增ONTAP Select 內容以供使用。此內容可協助您在ONTAP Select VMware ESXi上執行VMware ESXi、並提供Hypervisor獨立文件、以供使用ONTAP Select RESDeploy REST API。</block>
+  <block id="7f6004388e43ebb6b892401a47be0905" category="paragraph">我們很高興能看到這項變更、因為內容撰寫團隊將多個來源的內容合併成一個可搜尋的線上文件庫。</block>
+  <block id="7436b418bed093768e360d32105591d2" category="inline-link">本文檔ONTAP Select</block>
+  <block id="4e5d48997630055674b3aae770fcd98d" category="paragraph">歡迎來看看ONTAP Select 這份全新的文件體驗、以供參考。您可以編輯、申請變更、甚至傳送意見反應。前往<block ref="45a93879d4bb7abd51fafccb0f35f591" category="inline-link-rx"></block> 開始使用。</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-image-macro"></block>
+  <block id="49d9378e00193fa4d854bd382df3826d" category="paragraph"><block ref="49d9378e00193fa4d854bd382df3826d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a8fd82e5e9c6bb55948e04fd6db97539" category="summary">我們已新增新NetApp服務的文件。NetApp SaaS Backup for Salesforce的文件現已可在取得<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="128764058687673e348baaa3c18f23a4" category="doc">適用於NetApp SaaS Backup for Salesforce的文件</block>
+  <block id="f8bf3ad3550f95af891e242fcfff7b8a" category="inline-link">docs.netapp.com</block>
+  <block id="27b3d50bf4a11ca6040fb6e597f7ff41" category="paragraph">我們已新增新NetApp服務的文件。NetApp SaaS Backup for Salesforce的文件現已可在取得<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="d031155e704c9f3172521b5694dcd795" category="paragraph">NetApp SaaS Backup是一項安全的雲端原生服務、可將您的Salesforce資料備份至Amazon S3儲存設備。SaaS備份有助於保護資料免受威脅或意外刪除。</block>
+  <block id="62a1bf19d63cf8abd2a45f03805b1a3a" category="inline-link">NetApp SaaS Backup for Salesforce文件</block>
+  <block id="fbcea8f4dc514cb9ce5836b06a6d4eeb" category="paragraph">前往<block ref="a4e64802703d44f75fce5d890692ece4" category="inline-link-rx"></block> 以瞭解如何開始使用。</block>
+  <block id="de39e287c52b06825de260bae8849241" category="paragraph"><block ref="de39e287c52b06825de260bae8849241" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="c2090ebcb81deebf8dfe7bcc3bf5b97e" category="doc">NetApp文件公告</block>
+  <block id="7c96569c18e233bc3aa0c678f6c737a3" category="paragraph">2018年2月、我們推出了以GitHub為基礎的文件<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>的目標是讓內容更快提供給您、同時讓社群參與其中。我們持續新增內容、並對內容體驗進行改善。請觀看此頁面、瞭解最新變更。</block>
+  <block id="76d676de13da507e21b2b97274f3143d" category="paragraph">以下是最新的公告：</block>
+  <block id="b2659ea7bd2dc02b176860f71e92c02d" category="inline-link-macro">Astra Trident的文件</block>
+  <block id="a6c03c83182e8a5c08fda690a810ec34" category="list-text"><block ref="85b751cc6a57837c56016d0c4fe6be5f" category="inline-link-macro-rx"></block> （2021年9月9日）</block>
+  <block id="7f91881a4e5ca9171020102c29c19f58" category="inline-link-macro">Astra Control Center的文件</block>
+  <block id="e0447163b38775c5fca302b98047f8a2" category="list-text"><block ref="849c9fbef6c9fb4320c7cbf044a6864f" category="inline-link-macro-rx"></block> （2021年8月05日）</block>
+  <block id="2e4729496d2bbed6bff0232599f76326" category="inline-link-macro">預設分公司重新命名為「MAIN」</block>
+  <block id="d1562fb6b39b6bdf3504b3a6ccfef304" category="list-text"><block ref="e5f966226f45758ecad5359af5797bd3" category="inline-link-macro-rx"></block> （2021年3月05日）</block>
+  <block id="b629fc52d1588569a2f633d0a7e6adc9" category="inline-link-macro">HCI文件更新</block>
+  <block id="cd366322ff81f4650796a83a5cfb317f" category="list-text"><block ref="734da8f95796052311327721f0c6b1ce" category="inline-link-macro-rx"></block> （2020年5月29日）</block>
+  <block id="a1622d0a07d6f6b9a8e538aada0593dd" category="list-text"><block ref="39b5be9799c0610a32f935e5d1141695" category="inline-link-macro-rx"></block> （2020年4月28日）</block>
+  <block id="1a5143bbde5a332ba63e43fb6f6adb93" category="inline-link-macro">增強使用者體驗</block>
+  <block id="6dfa38e97fe16150c4ca6689c6d3a881" category="list-text"><block ref="fcd05649c33944b070e8a09a7085bc92" category="inline-link-macro-rx"></block> （2020年3月17日）</block>
+  <block id="ac4fe0f8f82391e062ef9b8420631194" category="inline-link-macro">適用於《系統管理程式》的文件ONTAP</block>
+  <block id="f2c46dc66240138596000a911fc329dc" category="list-text"><block ref="98eb39d84bcd9d653ee2d5119e96969a" category="inline-link-macro-rx"></block> （2020年1月23日）</block>
+  <block id="ab4385c6ca35951b4efd0c2871095944" category="inline-link-macro">雲端法規遵循文件</block>
+  <block id="022fd1890be2f8ba7b5bfc8d526e1e35" category="list-text"><block ref="4746811d90ba44b4592b64974c6ec5db" category="inline-link-macro-rx"></block> （2020年1月22日）</block>
+  <block id="de30ff0f7799bed8eaaffc3aa67c5f68" category="list-text"><block ref="63b2dfcd546a008996cc1a93eb83b957" category="inline-link-macro-rx"></block> （2020年1月22日）</block>
+  <block id="833e732ee0444267bc1da174548ba78a" category="inline-link-macro">適用於《The Docs for NetApp HCI The Cloud Services and Solutions》的文件</block>
+  <block id="273139a524e7ad006693d5672eb1fc67" category="list-text"><block ref="db7f04ef74afc79fc47f0b23f0640d8f" category="inline-link-macro-rx"></block> （2019年11月22日）</block>
+  <block id="88dee452ae0859a30045db56c941e7a0" category="inline-link-macro">樣式指南和語法參考</block>
+  <block id="abec09ebabb20833adcb20f5e75b9a70" category="list-text"><block ref="22c0178ce857453e48ff3794fa4dfd93" category="inline-link-macro-rx"></block> （2019年10月24日）</block>
+  <block id="5dbdc6054859d79d7c19444a994441fe" category="summary">如果您想要求變更文件、而不想直接編輯來源內容、現在可以按一下「Request Doc Changes」（索取文件變更）來提供意見反應。</block>
+  <block id="951885a0dd056fe4b77aec324c26ddc3" category="doc">申請文件變更</block>
+  <block id="e3c0cf211075637a24931ecc16eab2da" category="paragraph">如果您想要求變更文件、而不想直接編輯來源內容、現在您可以按一下*申請文件變更*來提供意見反應。</block>
+  <block id="d9466ff730e0feb26a154ecb639a35e3" category="paragraph">此新按鈕會出現在每個頁面的頂端：</block>
+  <block id="32a073aab0022a640d6931b3112d874d" category="paragraph"><block ref="32a073aab0022a640d6931b3112d874d" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="0db13ffa9ada0395f16f1863f6d002fc" category="paragraph">當您按一下*要求文件變更*時、系統會提示您建立或登入GitHub帳戶（免費且易於建立帳戶）。</block>
+  <block id="d805b5bfc4c9ba3aaaea66a81087fc42" category="paragraph">登入之後、會出現一個表單、以建立新的GitHub問題。文字方塊會預先填入頁面的標題和URL。請勿刪除此資訊、這有助於我們找出您發現問題的頁面。</block>
+  <block id="23ddca3dd72398443586add55c501d4c" category="paragraph"><block ref="23ddca3dd72398443586add55c501d4c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="3c485ad3c399d7e7463d5becec3dd9d8" category="paragraph">請在文字方塊中提供詳細資料、然後按一下*提交新問題*、為您的申請建立問題。</block>
+  <block id="5c63259eb2557499deae26eab465ebcc" category="paragraph">我們將會檢閱您的意見反應、並從中加以取用。</block>
+  <block id="8ec744b2290e1d3a33b0ff978e8eaf06" category="summary">現在、每個頁面都包含多個標題的頁面層級導覽。</block>
+  <block id="027d87552794088159597f2321cfc386" category="doc">頁面層級導覽</block>
+  <block id="d99210b4612e0b4ade2c333c4c2880b7" category="paragraph">每個頁面現在都包含多個區段的頁面層級導覽。</block>
+  <block id="cfb96590366980b52c3ed170b3ce4222" category="paragraph">這項增強功能可讓您在捲動時輕鬆查看所在位置、並跳至頁面上的特定區段。</block>
+  <block id="58d64b9c7f50e3e860ba31a993332863" category="paragraph"><block ref="58d64b9c7f50e3e860ba31a993332863" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="73d58b632dfae1d33e39c28c1d5ddd1a" category="summary">現在提供《The Docs for NetApp HCI The Solutions》（《關於解決方案與服務的文件》）。</block>
+  <block id="36317b19455648745096575e2574f10b" category="doc">文件供您使用NetApp HCI</block>
+  <block id="9fd220153734575a48bb738a083f5aaf" category="paragraph">我們已新增文件、用於在NetApp HCI 支援的基礎上提供雲端服務、以及存取NetApp HCI 《支援解決方案目錄》。</block>
+  <block id="cde6f89ae8cc04677a4695632fa9b67f" category="inline-link">解決方案NetApp HCI</block>
+  <block id="2bde1a8d8db69aa0dee1f98e01e72346" category="paragraph">前往<block ref="61b1a239d4e5189a8d59d81af4ca9e1e" category="inline-link-rx"></block> 以瞭解如何開始使用NetApp HCI 有關支援的雲端服務、並瞭解如何搭配NetApp HCI 使用解決方案。</block>
+  <block id="9aec5175c3af133ad3547b84d767e6de" category="paragraph">雲端服務資訊說明如何使用NetApp HCI 「支援混合雲控制」來啟用雲端服務、如何使用NetApp Kubernetes Service來建立叢集並快速部署應用程式、以及如何NetApp HCI 使用NetApp Fabric Orchestrator在整個過程中建立Cloud Volumes onFabric Orchestrator是集中式儲存與資料管理控制層、可在任何地方探索及管理您的儲存資產與資料資產。</block>
+  <block id="a123afb0a5e473d260a319e6afe8f936" category="inline-image-macro">解決方案：Cloud Services文件NetApp HCI</block>
+  <block id="1fdfe244ff4d1182c2de92ba8cba2a4b" category="paragraph"><block ref="1fdfe244ff4d1182c2de92ba8cba2a4b" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="38accc9f8c554b6f186652a6a450c0fd" category="paragraph">我們也新增NetApp HCI 了《支援客戶部署及營運私有雲端所需的資訊》《支援各種內部與外部使用案例》《支援解決方案目錄》。解決方案在DevOps、終端使用者運算、企業應用程式、人工智慧、資料保護及Data Fabric管理等技術領域、提供跨公有雲、私有雲、混合雲及多雲端的加值功能。NetApp HCI</block>
+  <block id="aad773c64100f77a8f265003d71729f6" category="inline-image-macro">解決方案目錄NetApp HCI</block>
+  <block id="53bb917009114360f67dfe77bf7b5cc1" category="paragraph"><block ref="53bb917009114360f67dfe77bf7b5cc1" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f0fcc16ab49b209290308ac6fa936d99" category="summary">NetApp很高興宣布Astra Trident產品文件的推出。</block>
+  <block id="8e957984d6e4a01fc1a87e256d382796" category="paragraph">NetApp很高興在此宣布Astra Trident產品文件的推出<block ref="315379460c8d673ec8ed412b286951a4" category="inline-link-rx"></block>。</block>
+  <block id="b890af956381210db22f43bb6ed50a31" category="paragraph">Astra Trident是符合Container Storage介面（SCSI）的動態儲存協調程式、可在所有熱門的NetApp儲存平台上、實現儲存資源的使用與管理。</block>
+  <block id="14d9b10c6196045941347a9e85704b50" category="inline-link">Astra Trident文件</block>
+  <block id="260a438318a45336bc25b495b2410333" category="inline-link">Astra Trident簡介</block>
+  <block id="42f8643eb52a942747937327c72c8361" category="inline-link">部署總覽</block>
+  <block id="130d3a2c99344d7ddbdff3c14116e726" category="paragraph"><block ref="483e1d24e3d650accbb97eb1ede403e4" category="inline-link-rx"></block> 提供有助於快速入門Astra Trident的主題、包括<block ref="3c82646c2b0d168946721808a42b105e" category="inline-link-rx"></block> 和答<block ref="fef7daa7054cfc5895c4f8480c2569c8" category="inline-link-rx"></block>、以及有關升級Astra Trident的資訊、以及更多易於瀏覽的格式。</block>
+  <block id="35b46e301702b6fcb16192f9f4cf4533" category="inline-link">Astra控制服務</block>
+  <block id="87081decba56eb52090a814e26495724" category="inline-link">Astra Control自動化</block>
+  <block id="9c634046a90a62883b122e76b9afcef2" category="inline-link">Astra控制中心</block>
+  <block id="69de00b79b32c269763eb6a322ceff1e" category="paragraph">本文件擴大Astra產品系列的內容支援範圍、包括<block ref="a60edd0f49d13d6bb9b2af16b2cbbdd5" category="inline-link-rx"></block>、<block ref="2f06701930d5d1d785905eefbc482f24" category="inline-link-rx"></block>和<block ref="6653b3fa72bfc9c83d8e5fede6da40f0" category="inline-link-rx"></block>。</block>
+  <block id="41e9974be0689901f5d5b1ac60055273" category="inline-image-macro">docs.netapp.com上顯示Astra Trident文件網站的快照。</block>
+  <block id="32afb2c13dc7c44f051b5e8fdddd25ac" category="paragraph"><block ref="32afb2c13dc7c44f051b5e8fdddd25ac" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="f6c27fd7b4e8b1709f99ae0dac55b543" category="section-title">想要貢獻嗎？</block>
+  <block id="5fc5283f6ec17de5dc3a8219d59951d5" category="paragraph">NetApp對內容的意見反應十分讚賞、並鼓勵使用者善用產品文件每一頁的「申請文件變更」功能。文件平台也為GitHub使用者提供內嵌內容貢獻功能。</block>
+  <block id="752f9ff9f4842abac53d8c0aec2188b0" category="inline-link">NetApp Astra Trident文件</block>
+  <block id="5b2ac7349892d38080d27249f9f7275c" category="paragraph">請看一下、並對本文件做出貢獻。您可以編輯、申請變更、甚至傳送意見反應。前往<block ref="83cd7cbefde0940dfcdd838ab819e938" category="inline-link-rx"></block> 開始。</block>
+  <block id="e24c5b58e2d9896cb97f9c2b3319aba5" category="summary">我們更新了《貢獻者指南》、以涵蓋GitHub中所主控的NetApp文件的風格與語法。</block>
+  <block id="e5ae3e8cef11a090cc3acaa905030eca" category="inline-link">貢獻者指南</block>
+  <block id="926b60e1a6c51073fbbc63f83d98d4fc" category="paragraph">我們已更新我們的<block ref="db2dc000b9399960efa3586df4e9cb8c" category="inline-link-rx"></block> 涵蓋儲存在GitHub中的NetApp文件的樣式和語法。</block>
+  <block id="8e1e340c21a62417919b757c373d41dc" category="paragraph"><block ref="8e1e340c21a62417919b757c373d41dc" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="62031e5204e801a849a91204c9d6aa95" category="paragraph">我們開始將部分內容儲存在GitHub中、有幾個原因。其中一個重要原因是要讓我們的社群能夠貢獻自己的能力。NetApp文件之所以更好、是因為您（客戶、合作夥伴和NetApp員工）的意見反應。</block>
+  <block id="2fda5e49e611c72a25c5331ceac4b342" category="paragraph">提供意見回饋的方法之一、是編輯儲存在GitHub中的來源內容：</block>
+  <block id="2076081b3709235f99d2bf1e586bd408" category="paragraph"><block ref="2076081b3709235f99d2bf1e586bd408" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a7c254e29c6a4c50c012d4dc15595011" category="paragraph">為了協助您提交內容更新、我們在中新增下列項目<block ref="db2dc000b9399960efa3586df4e9cb8c" category="inline-link-rx"></block>：</block>
+  <block id="88c3dc92387f534cb0d262ec1e8f1bb2" category="list-text">NetApp文件樣式指南</block>
+  <block id="2ba2bed86469c810fc6b6d899717fec1" category="list-text">請遵循本輕量化指南、瞭解NetApp文件的風格：對話與同理心、但重點在於。</block>
+  <block id="de2149b178d59ac3e76c6bf02f61f3c7" category="list-text">AsciDoc參考資料</block>
+  <block id="284ecb4c0849131653777dab0472c4ef" category="list-text">請遵循此參考來學習AsciiDoc語法、這是輕量標記語言、類似於Markdown。</block>
+  <block id="86af32105323ac0935a0f85e2aeeb711" category="paragraph">我們希望您能發現這些資源很有幫助、並參與NetApp文件的撰寫。如果您不想直接編輯來源內容、仍可按一下*申請文件變更*來提供您的意見反應。我們會檢視您的意見回饋、並從中加以取用。</block>
+  <block id="0962bcdca78ea05e7fbf19a898a97dfe" category="paragraph">貢獻愉快！</block>
+  <block id="584cd3a08ba716abaa71859ee4023e37" category="summary">我們很高興在此宣布、我們已針對docs.netapp.com上的GitHub文件、增強使用者體驗。這些變更可在NetApp線上內容中提供更一致的體驗。</block>
+  <block id="f067aed48d152712839b17f2e943de83" category="paragraph">我們很高興在此宣布、我們已針對以GitHub為基礎的文件增強使用者體驗<block ref="09765d13a2c7e990410fb33027d9cebd" category="inline-link-rx"></block>。這些變更可在NetApp線上內容中提供更一致的體驗。</block>
+  <block id="31bd5ffbed535a9ad92dfd564b8ff05c" category="section-title">配置與風格</block>
+  <block id="bbcdcf5d47357b33df71fd5d58d48870" category="paragraph">現在、文件的版面配置和樣式與您在netapp.com上看到的內容更為相似。這包括字型和色彩、左右導覽的配置、以及頁首和頁尾。</block>
+  <block id="cf9334cd99a89b490ffa44f86462e733" category="paragraph"><block ref="cf9334cd99a89b490ffa44f86462e733" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="6e1229499240644bcf841f10a176bcd6" category="section-title">階層連結</block>
+  <block id="488c1604476862b77fe053c7bf7b6c5c" category="paragraph">我們新增了階層架構、讓您更容易瀏覽NetApp文件。例如、您可以按一下* Documentation *返回docs.netapp.com。</block>
+  <block id="b483cae019f93373053707d21a4caea7" category="paragraph"><block ref="b483cae019f93373053707d21a4caea7" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="57298c3120d668e00ef2b29738832952" category="section-title">貢獻連結</block>
+  <block id="105cb06c1bb1ca199df198a2ad98f866" category="paragraph">在頁面層級導覽上方、已整合提供內容的連結。當您捲動瀏覽內容時、這些連結一律可見。因此、如果您在頁面中的任何地方發現問題、您可以按一下按鈕直接提交變更、或提供您的意見反應給我們。</block>
+  <block id="ef1344af1891770b6ba7e34326b207bf" category="paragraph"><block ref="ef1344af1891770b6ba7e34326b207bf" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="e29784e3d5c940145771b8ec1f0d2361" category="summary">NetApp全新雲端分層服務的文件現已上線<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="a23936500ee528b456b34733d186d6a2" category="doc">雲端分層的文件</block>
+  <block id="92e80b6c1b180e7fecd04cd78e3a8237" category="paragraph">NetApp全新雲端分層服務的文件現已上線<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="a75a80ee13edb26298fa1c272d69a5b4" category="paragraph">Cloud Tiering採用NetApp FabricPool 的技術、可識別ONTAP 出您的支援中心叢集內不常使用的資料、並可自動無縫地將資料移至雲端的低成本物件儲存設備。</block>
+  <block id="18b67cdd6c50872fa0de2de9dfd11343" category="inline-link">雲端分層文件</block>
+  <block id="163d026b849195b6f6272437e6a79209" category="paragraph">前往<block ref="807e3f80ca0c2c5e2529f8974c05a3ad" category="inline-link-rx"></block> 以瞭解如何開始使用。</block>
+  <block id="6c3ecb751bd708b13e900094cf942926" category="paragraph"><block ref="6c3ecb751bd708b13e900094cf942926" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="37a8cfd772c8abc4580a796f3269f47c" category="summary">我們已在文件中的每個「最新消息」頁面新增RSS按鈕、讓您可以在最愛的RSS摘要閱讀程式中接收內容更新。這些摘要可讓您隨時掌握NetApp產品與服務的新功能與增強功能。</block>
+  <block id="5dc86df28e80ea7547427158e7beedf6" category="doc">關於新頁面的RSS摘要</block>
+  <block id="1457e49f8dccec856889afc7198d7b7f" category="inline-link">雲端分層服務</block>
+  <block id="3872ba83279a8e314096c5b922d90428" category="paragraph">前往您感興趣的產品或服務的「新增功能」頁面。以下是的範例<block ref="d4507f8d464d714b843db28c6932e942" category="inline-link-rx"></block>：</block>
+  <block id="6748f7beddaefd31416ca3654ffdf13c" category="paragraph"><block ref="6748f7beddaefd31416ca3654ffdf13c" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d22d4e22b331006dc0f8853a7bda8e1f" category="paragraph">視您的RSS摘要讀取程式而定、請複製頁面URL或按一下* RSS訂閱*、然後複製摘要URL。在讀卡器中搜尋URL、然後開始追蹤。每次更新頁面時、您都應該在摘要中收到更新。</block>
+  <block id="c3d2f664da493cc1d2eed39d199804b3" category="summary">在2019年底之前、我們在Cloud Manager文件中新增Cloud Compliance服務的內容。</block>
+  <block id="dd817f8b8470692ef67440abe8b9db70" category="paragraph">在2019年底之前、我們在Cloud Manager文件中新增雲端法規遵循服務的內容。</block>
+  <block id="c6527133a9a1d75014c953711e81902d" category="paragraph">Cloud Compliance是Cloud Volumes ONTAP 一套資料隱私與法規遵循服務、適用於AWS和Azure中的功能。Cloud Compliance採用人工智慧（AI）導向技術、可協助組織瞭解資料內容、並識別Cloud Volumes ONTAP 整個各個系統的敏感資料。</block>
+  <block id="4784fe79d9263a540b730e0503eb61b6" category="paragraph">雲端法規遵循是透過 Cloud Manager 進行營運與管理。您可以從 Cloud Manager 的「 * Compliance * 」（ * 法規遵循 * ）索引標籤存取 Cloud Compliance 功能。</block>
+  <block id="b3a853d57fdef5749cc6f40650ebaac6" category="inline-link">Cloud Manager文件</block>
+  <block id="0aefd0af975c621b20d1d95f7e5bc455" category="paragraph">前往<block ref="66669ae9fe144d67be852fbb8a9637b7" category="inline-link-rx"></block> 以瞭解如何開始使用。</block>
+  <block id="32c1167790191e2571d7b60db822fb75" category="inline-image-macro">Cloud Manager文件中Cloud Compliance內容的快照</block>
+  <block id="0a86bd8d14317490dc24f9732292c565" category="paragraph"><block ref="26d34e6669f802b514bbe8a76eba996a" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="9a21351cef909121f2a9b6debcfed246" category="summary">我們已將GitHub中所有NetApp技術文件儲存庫的預設分公司從master重新命名為MAIN。這項變更是我們為了在技術文件中移除非包容性語言而持續努力的一部分。</block>
+  <block id="d3b7c913cd04ebfec0e9ec32cb6fd58c" category="inline-link">GitHub</block>
+  <block id="25efe773c4e9de42eb91ab02141aff94" category="paragraph">我們已將中所有NetApp技術文件儲存庫的預設分公司從master重新命名為MAIN<block ref="71990f224cf870094b63b8dd2aea55d0" category="inline-link-rx"></block>。這項變更是我們為了在技術文件中移除非包容性語言而持續努力的一部分。</block>
+  <block id="ecad71bc237a38b4607e5135538231ee" category="paragraph"><block ref="ecad71bc237a38b4607e5135538231ee" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="40aa38e48fe3025b432fc9c6a94ab755" category="summary">我們很高興宣布推出NetApp首個GitHub文件網站：clouddocs.netapp.com—which目前裝載Cloud Manager和Cloud Sync the效益的文件。</block>
+  <block id="4731c959d36b32dd74134e1ed0b99b5a" category="doc">GitHub中的NetApp文件簡介</block>
+  <block id="07e8aa1a0c3839dc4b101b0ce1bb688e" category="paragraph">文件以AsciDoc（類似Markdown的輕量格式）撰寫、儲存在GitHub儲存庫中、並做為HTML內容<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="7efbb7e06719718f77e4c61c1df3ef2c" category="paragraph">這項新的文件體驗提供幾項主要優點：</block>
+  <block id="ba24c1c2eed9743b34852d4d56fafb6f" category="list-text">快速更新內容</block>
+  <block id="d82ec879ebd0f625cde5edcd5f0465e7" category="paragraph">我們運用雲端和開放原始碼資源來支援加速產品發行速度。</block>
+  <block id="ba9cb4c86128c400ab65fb7eca598e2d" category="list-text">社群貢獻</block>
+  <block id="c875224f829e6299b37bced748c147d7" category="paragraph">NetApp作者與客戶之間的距離縮短了、讓任何人都能推薦即時編輯與增強功能。</block>
+  <block id="1ca59b86cbef98a8be3dbcecdbbfeda5" category="list-text">回應能力更好的設計</block>
+  <block id="b89f5008d8de8f5c78118ec3b9792b65" category="paragraph">此網站提供回應迅速的配置、適用於您用來存取NetApp文件的任何裝置。</block>
+  <block id="714a2e829fbe98dc44280f88e6c37ca0" category="paragraph">我們計畫持續改善網站、並隨著時間增加其他內容。我們希望您喜歡這項功能、並期待您有任何意見反應。</block>
+  <block id="bdfcc723b96e5627c5dd7669de58ce64" category="summary">整合式系統顧問文件現已上線<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="cb773a80fe34f37583813b5d6bbf54e7" category="doc">適用於融合式系統顧問的文件</block>
+  <block id="9cb6bb5e9ff16479c39d0bcf8f913663" category="paragraph">整合式系統顧問文件現已上線<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="7a49965d9cfff28dae6c97f9b420a932" category="paragraph">NetApp融合式系統顧問可驗證、監控FlexPod 及最佳化您的融合式基礎架構部署、確保為您的商業應用程式提供最佳效能與可用度。</block>
+  <block id="e9b2694df761ec3149dc627f508ad225" category="inline-link">融合式系統顧問文件</block>
+  <block id="c345c0285df3270d26e03091c3ce0902" category="paragraph">前往<block ref="85d1a394d8d07c1de98158553304dd41" category="inline-link-rx"></block> 以瞭解如何開始使用。</block>
+  <block id="6ef1daab3112a138119ab68a54297214" category="paragraph"><block ref="6ef1daab3112a138119ab68a54297214" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="4749b60d80ac603c59d60d492218a4d4" category="summary">NetApp全新Cloud Insights 的《介紹》服務文件現已可在docs.netapp.com取得。</block>
+  <block id="e8947ead1bdab019f82cf3b6ff399971" category="doc">文件供您使用Cloud Insights</block>
+  <block id="2d4906ecd3e840e50a951925c4d89134" category="paragraph">NetApp全新Cloud Insights 的《介紹》服務文件現已可在取得<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="b6569b5a5429e43ea4e566ae989fd3e6" category="paragraph">NetApp Cloud Insights 解決方案是一套雲端基礎架構監控工具、可讓您清楚掌握完整的基礎架構。利用VMware、您可以監控、疑難排解及最佳化所有資源、包括公有雲和私有資料中心。Cloud Insights</block>
+  <block id="5858ee4031acd7b896faa2d3d2c1a299" category="inline-link">本文檔 Cloud Insights</block>
+  <block id="995ff0c46344da03464527cbcfcbebb1" category="paragraph">前往<block ref="58c5925e5196942f30b30cb2d55d4ec2" category="inline-link-rx"></block> 以瞭解如何開始使用。</block>
+  <block id="f850d546548119c76f210ab460b080c6" category="summary">NetApp很榮幸宣布Astra Control Center產品文件的推出。</block>
+  <block id="f38fccfd815a280859dfd15d161865c3" category="paragraph">本文件擴大Astra產品系列的內容支援、包括Astra Control Service、Astra Control Automation和Astra Trident。Astra Control Center可為Kubernetes啟用內部部署應用程式感知、資料管理功能、並將Kubernetes連線至新的或現有的內部部署ONTAP 式更新。</block>
+  <block id="7339a613d4c674913deb90b3b3362fed" category="inline-link">Astra Control Center簡介</block>
+  <block id="a87da1b8e8afc29470ac85cf788e125c" category="inline-link">Astra Control Center快速入門</block>
+  <block id="c3c02050d805dbc9ceac219fbb898972" category="paragraph">Astra Control Center文件網站提供主題、協助您快速開始使用Astra Control Center、包括<block ref="a95d2afae8745420ff43aacb977c87ea" category="inline-link-rx"></block> 和答<block ref="85d3fc4f1d9c9c8b3625a5fe4a456b0d" category="inline-link-rx"></block>、以及使用Astra Control Center來管理Kubernetes叢集、應用程式、儲存後端等相關資訊。</block>
+  <block id="025b7e6e5bda835f17fe8cb4f83b500d" category="paragraph">Astra產品系列文件可從下列網址取得：</block>
+  <block id="3a4b2c66d4bdac6ce0e3340c71a39eda" category="inline-link">Astra Control Center文件</block>
+  <block id="ea643bf7aaf130341a17f697a7009368" category="list-text"><block ref="ea643bf7aaf130341a17f697a7009368" category="inline-link-rx"></block></block>
+  <block id="ef22ff17624b3faeed227ce5c717eb5f" category="inline-link">Astra Control Service文件</block>
+  <block id="6762180adf48075df77efbf264e982ec" category="list-text"><block ref="6762180adf48075df77efbf264e982ec" category="inline-link-rx"></block></block>
+  <block id="ae62facd357433ca5e68bd73bbc985e8" category="inline-link">Astra Control自動化文件</block>
+  <block id="6c0842d7964e2eb41e0d803e2ccc4cc2" category="list-text"><block ref="6c0842d7964e2eb41e0d803e2ccc4cc2" category="inline-link-rx"></block></block>
+  <block id="27ad5f18f21813695f06091d7d929c12" category="list-text"><block ref="27ad5f18f21813695f06091d7d929c12" category="inline-link-rx"></block></block>
+  <block id="46fd8823cd0c333029a4f02468f6a048" category="inline-link">NetApp Astra Control Center文件</block>
+  <block id="e4d32a80a3a045bb2cb0ccae0bd727ad" category="paragraph">請看一下、並對本文件做出貢獻。您可以編輯、申請變更、甚至傳送意見反應。前往<block ref="8e3a361e6788a8a4f34c9bb6c9d6b3ec" category="inline-link-rx"></block> 開始。</block>
+  <block id="39a11e28c8c10ce011a58d0519e841ad" category="inline-image-macro">docs.netapp.com上顯示Astra Control Center文件網站的快照。</block>
+  <block id="ac29d6fdc8643e090db3f9c90af1db57" category="paragraph"><block ref="ac29d6fdc8643e090db3f9c90af1db57" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d4c2619be7bff9d7e1cabee8c8ca76a9" category="summary">我們已新增新NetApp服務的文件。AWS適用的文件現Cloud Volumes Service 已可在取得<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="5e2bff150b9b10db5641b203d743226f" category="doc">適用於AWS的文件Cloud Volumes Service</block>
+  <block id="42b7b123029134ca57803f12fa93b504" category="paragraph">我們已新增新NetApp服務的文件。AWS適用的文件現Cloud Volumes Service 已可在取得<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="cffa933a10458e8374fbef2e21507c9d" category="paragraph">NetApp Cloud Volumes Service for AWS 是雲端原生檔案服務、可透過 NFS 和 SMB 提供 NAS 磁碟區的 All Flash 效能。此服務可讓任何工作負載（包括舊版應用程式）在 AWS 雲端上執行。</block>
+  <block id="0f707acb7e2394436734d74b239bd7a4" category="inline-link">AWS文件Cloud Volumes Service</block>
+  <block id="0d08fd30c4ea287e35a236c1ce0f50a3" category="paragraph">前往<block ref="d214a539d749c7864af274ea2d9c8830" category="inline-link-rx"></block> 以瞭解如何開始使用。</block>
+  <block id="c89c5cd70f32a26ff845a27e3bedf342" category="summary">我們已新增新NetApp服務的文件。NetApp SaaS Backup for Office 365的文件現已可在取得<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="f99682d5106b8f6376000b302724aaf4" category="doc">適用於Office 365的NetApp SaaS備份文件</block>
+  <block id="692681554fa8fd3449c7299b20170009" category="paragraph">我們已新增新NetApp服務的文件。NetApp SaaS Backup for Office 365的文件現已可在取得<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="53af803bffa7f24980c4a26f63154396" category="paragraph">NetApp SaaS備份是一項安全的網路型軟體即服務（SaaS）產品、可將Microsoft Office 365資料備份至Amazon S3儲存設備、Microsoft Azure Blob儲存設備或StorageGRID NetApp Webscale物件儲存設備。</block>
+  <block id="0237411d804ba48104d618038a005a16" category="inline-link">NetApp SaaS Backup for Office 365文件</block>
+  <block id="d063e730c1cd393851bdcddd47c6a32c" category="paragraph">前往<block ref="89aa0d274c3077d7640c3c6450ece73b" category="inline-link-rx"></block> 以瞭解如何開始使用。</block>
+  <block id="705b9db16ffe253f6dbe6223378c2176" category="summary">我們新增醒目提示功能、讓您更輕鬆地檢視最熱門語言的語法。</block>
+  <block id="b1438fa6c9e31db5034f6307a11fe0fa" category="doc">語法醒目提示</block>
+  <block id="2c6fbc3258a5f85566bcf97c08506130" category="paragraph">例如、從NetApp Cloud Central取得使用者權杖的語法如下：</block>
+  <block id="ca8bdf3ba678bd46df596707720379c3" category="paragraph">如您所見、我們也新增了「複製」按鈕、方便您將語法複製到剪貼簿。</block>
+  <block id="996711c9b03859e62bd6cab82ba827d1" category="paragraph">以下是顯示Json輸出的另一個範例：</block>
+  <block id="e177a21fa6914d742af2e7f0ae7cfb1c" category="paragraph">我們希望您能發現這項增強功能很有幫助！</block>
+  <block id="46d9aeeb3e6be5318a575af8352534c9" category="summary">NetApp Active IQ 解決方案的文件現已可在取得<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="b8aad932978a2978b376b7a6897e0390" category="doc">NetApp Active IQ 文件</block>
+  <block id="331658451af5c246947672f876cc30ae" category="paragraph">NetApp Active IQ 解決方案的文件現已可在取得<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="d81ef71405d0d4b4daee2a3423013bbb" category="paragraph">NetApp Active IQ 支援資料引擎是雲端型服務、提供預測性分析和主動式支援、以最佳化整個NetApp混合雲的營運。</block>
+  <block id="838806ac97500ec8420a6b2811220c16" category="inline-link">本文檔Active IQ</block>
+  <block id="26340c92a14b94f57f49d510e904a60d" category="paragraph">前往<block ref="df7b0f437c501ac5338884e339501425" category="inline-link-rx"></block> 以瞭解如何開始使用。</block>
+  <block id="591b9879d46f270469204bb1b54cb905" category="paragraph"><block ref="591b9879d46f270469204bb1b54cb905" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="780dddb5c0d19186b6d43b2527f34dc1" category="summary">文件中的每個頁面現在都包含GitHub Avatars、這些人都是對頁面做出貢獻的人。這項變更有助於實現NetApp Docs社群導向的目標。</block>
+  <block id="d34fd20c27f77dcf17ccc607334738c5" category="doc">GitHub為內容撰稿人提供的Avatar</block>
+  <block id="ef98abaa338a36d07c1350b364c8bfee" category="paragraph">您將會看到GitHub虛擬人物、針對任何透過建立拉出要求而承諾變更來源內容的人。貢獻者可以是客戶、NetApp合作夥伴或員工。範例如下：</block>
+  <block id="c69bb86131e52f76221ffee2cae52cb9" category="paragraph"><block ref="c69bb86131e52f76221ffee2cae52cb9" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="eae8dde81953aaa19bfa5f8d57a7abec" category="paragraph">無論您是專家或新手、都可以提交內容變更、而且您的貢獻也會大不相同。</block>
+  <block id="6e7df42f97b0cd6ecba29faec584550f" category="paragraph">請注意、Avatars夠小、每次查看文件時、您都不會被NetApp作家的臉所壓倒：[&amp;#128521]</block>
+  <block id="9dda9c5cdd8115b872f0ef35be3fcdd5" category="summary">現在市面上已普遍推出更新版本、我們想在此宣布、我們已將重新設計的內容加入docs.netapp.com中、以供使用。ONTAP ONTAP</block>
+  <block id="25b7b300a479a551c3d57923603926e8" category="paragraph">從完全重新設計的《不只是用作更新的功能》9.7開始ONTAP 、ONTAP 透過ONTAP 直覺式的圖形化使用者介面、簡化了功能。新儀表板會在單一畫面上顯示主要叢集狀態和效能。</block>
+  <block id="0158860f13c021906b67d200c7689058" category="paragraph">此外、還重新設計了《不適用》的《ONTAP 不適用》文件。易於瀏覽的內容既快速又簡單易用。觀看內嵌影片、快速瞭解主要管理工作的總覽。</block>
+  <block id="e8726682a54ea85f2123db66fd54ec79" category="inline-link">系統管理程式文件ONTAP</block>
+  <block id="7cce11cd1cef1f48e143e578d0a9e9ba" category="paragraph">前往<block ref="3a5e4656d39a4651c31e49e8beb7805d" category="inline-link-rx"></block> 開始使用。</block>
+  <block id="7c21f38d01aad6cad1d0f32633893bed" category="paragraph"><block ref="500e4723e9fa4087959db6af3e0c371a" category="inline-image-macro-rx" type="image"></block>。</block>
+  <block id="d9ece361cbf81c60c155b885f24690f7" category="summary">如需發行說明Cloud Volumes ONTAP 、請參閱<block ref="06b284168173d5b4376e0e430fdd86ed" category="inline-link-rx"></block>。</block>
+  <block id="9cde8b250928656ce8678c8ec126aa0e" category="doc">文件供您使用Cloud Volumes ONTAP</block>
+  <block id="de3fb31a8be0599075aba4868ba330b5" category="paragraph">如需發行說明Cloud Volumes ONTAP 、請參閱<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>。</block>
+  <block id="b2aa7f46133e37b27f37944e347ae13a" category="paragraph">支援各種使用案例的資料控制與企業級儲存功能、包括檔案共用與區塊層級儲存服務NAS與SAN傳輸協定（NFS、SMB與iSCSI）、災難恢復（DR）、備份與歸檔、Cloud Volumes ONTAP DevOps、資料庫（SQL、Oracle、NoSQL）或任何其他企業工作負載。</block>
+  <block id="1a523ba4ece9125275b92ebb41e3cf23" category="inline-link">本文檔Cloud Volumes ONTAP</block>
+  <block id="510cd2b19ca2a93141480c35102e1f8f" category="paragraph">前往<block ref="7bcb7b21b5400d7217e9db9c2b1b4ef7" category="inline-link-rx"></block> 以檢閱版本資訊。如果您需要說明如何部署及管理Cloud Volumes ONTAP 功能的文件、請參閱<block ref="9f7c33b1b6d8fcf4507c738fba5155d5" category="inline-link-rx"></block>。</block>
+  <block id="61979eb9db3f70d394e48b62f4ad0066" category="summary">有了這個版本的發行版、我們很高興在此宣布、我們在docs.netapp.com中新增了更多有關這個版本的資訊。NetApp HCI NetApp HCI</block>
+  <block id="09d3cdfa12532557da8f388da94bb9dc" category="doc">文件更新NetApp HCI 以供更新</block>
+  <block id="3ac61f5bf03fee02a7ddc42d3ea4781b" category="paragraph">針對此更新、您將會發現下列新主題：</block>
+  <block id="606a51c60a9c4da8c6957f2168b65638" category="list-text">版本資訊區段可收集NetApp HCI 有關適用於NetApp Element vCenter Server的更新內容與版本資訊、包括VMware vCenter Server的更新、更新說明、VMware vCenter Server管理服務與NetApp Element VMware外掛程式</block>
+  <block id="d68a4bb73faabdd47991f68fc53d5c87" category="list-text">全新的入門安裝與部署總覽</block>
+  <block id="3faaf4e0bd5f23a3b3706084a4d854e0" category="list-text">更多關於擴充及監控系統的操作方法</block>
+  <block id="3bdbd3cae79b223b93743379b90c491c" category="list-text">基本概念的一節、例如叢集和節點、以及可設定以管理效能之服務層級品質的說明</block>
+  <block id="cc2b34920ded911cf771871876c49b69" category="list-text">集中化的位置、可讓您瞭NetApp HCI 解如何升級端點對端點、包括如何更新管理服務、HealthTools、Element軟體、以及vCenter Server的Element外掛程式</block>
+  <block id="a097e3c464424bd17a692aab63c4ca1c" category="inline-link">本文檔NetApp HCI</block>
+  <block id="9d50d0dc54845ab1bf1003ff0efd319d" category="paragraph">歡迎瀏覽本文件NetApp HCI 以供參考。您可以編輯、申請變更、甚至傳送意見反應。前往<block ref="6f1ab4c6ddf47e4328cf379fafe3b17d" category="inline-link-rx"></block> 開始。</block>
+  <block id="977d060fa712ca5cada2a4970afaa133" category="inline-image-macro">顯示HCI文件網站的快照、網址為docs.netapp.com。</block>
+  <block id="ca35e8cf90586807dac031bf95a384b8" category="paragraph"><block ref="ca35e8cf90586807dac031bf95a384b8" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="9a843f20677a52ca79af903123147af0" category="sidebar">歡迎！</block>
+  <block id="05a5cf06982ba7892ed2a6d38fe832d6" category="sidebar">2021年</block>
+  <block id="1c7921a67f24b39dedf2b8594ce0a1a9" category="sidebar">預設分公司重新命名為MAIN</block>
+  <block id="7b7a53e239400a13bd6be6c91c4f6c4e" category="sidebar">2020年</block>
+  <block id="bf55b1a83193261961e14a3aec8c15af" category="sidebar">更新資訊NetApp HCI</block>
+  <block id="ea6b2efbdd4255a9f1b3bbc6399b58f4" category="sidebar">2019年</block>
+  <block id="6ffca96fa0c1e75da498221f958d9bfb" category="sidebar">SaaS Backup for Salesforce的文件</block>
+  <block id="5b3e65e6745f99101c082b7c5f8aa36e" category="sidebar">文件供您使用Active IQ</block>
+  <block id="481c7743539d1dafecedea9c7530b5ab" category="sidebar">新增內容頁面的RSS摘要</block>
+  <block id="571c738a85e0b49c979bfeb5bf13a8c4" category="sidebar">GitHub Avatars專為貢獻者而打造</block>
+  <block id="84ddfb34126fc3a48ee38d7044e87276" category="sidebar">2018年</block>
+  <block id="071ed14a37855c29609308bb1decd55d" category="sidebar">申請文件變更的新方法</block>
+  <block id="9b1c32128378aa74449702a04d7c2acf" category="sidebar">適用於Office 365的SaaS備份文件</block>
+  <block id="e148fb94b2111f44240663465c676324" category="sidebar">GitHub中的NetApp文件簡介</block>
+</blocks>

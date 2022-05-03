@@ -1,0 +1,38 @@
+---
+sidebar: sidebar 
+permalink: introduction.html 
+keywords: announcements, avatars, github, contributors 
+summary: 我們很高興宣布推出NetApp首個GitHub文件網站：clouddocs.netapp.com—which目前裝載Cloud Manager和Cloud Sync the效益的文件。 
+last_modified: 02-Feb-2018 
+---
+= GitHub中的NetApp文件簡介
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我們很高興宣布推出NetApp首個GitHub文件網站：clouddocs.netapp.com—which目前裝載Cloud Manager和Cloud Sync the效益的文件。
+
+文件以AsciDoc（類似Markdown的輕量格式）撰寫、儲存在GitHub儲存庫中、並做為HTML內容 https://docs.netapp.com["docs.netapp.com"^]。
+
+這項新的文件體驗提供幾項主要優點：
+
+* 快速更新內容
++
+我們運用雲端和開放原始碼資源來支援加速產品發行速度。
+
+* 社群貢獻
++
+NetApp作者與客戶之間的距離縮短了、讓任何人都能推薦即時編輯與增強功能。
+
+* 回應能力更好的設計
++
+此網站提供回應迅速的配置、適用於您用來存取NetApp文件的任何裝置。
+
+
+
+我們計畫持續改善網站、並隨著時間增加其他內容。我們希望您喜歡這項功能、並期待您有任何意見反應。

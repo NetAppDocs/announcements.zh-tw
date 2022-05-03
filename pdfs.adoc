@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: pdfs.html 
+keywords: pdfs, announcement, download pdf, download a pdf 
+summary: 我們已聽取您的意見、並從HTML文件新增下載PDF的功能。如此一來、您就能輕鬆隨身攜帶我們的內容。 
+last_modified: 28-Apr-2020 
+---
+= 下載PDF
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我們已聽取您的意見、並從HTML文件新增下載PDF的功能。如此一來、您就能輕鬆隨身攜帶我們的內容。
+
+您可以使用幾種不同的方式下載PDF。
+
+第一種方法是下載您目前正在檢視的頁面PDF。
+
+image:download-pdf-topic.gif["頁面頂端會出現此主題的「下載PDF」選項快照。"]
+
+左側目錄上方有更多選項可供選擇。按一下「*下載PDF*」、您會看到選項、以產生整個文件網站的PDF、整個區段（如果區段有多個頁面）、或只是您正在檢視的頁面。
+
+image:download-pdf-toc.gif["出現在目錄上方的「下載PDF」選項快照。"]
+
+我們仍在使用此功能、因此現在請考慮「下載PDF」做為試用版功能。有幾個已知問題、例如PDF中指向HTML頁面的連結。
+
+您是否注意到PDF標題頁底部的日期訊息？我們之所以這麼做、是因為我們不斷更新和改善內容、所以您應該計畫在短時間內使用這些PDF。例如、如果您要搭機或是要前往無法使用網際網路的安全地點、他們就很有幫助。您不應該在同一個PDF月後再參考、這是很好的機會、因為它會過時。請務必下載最新內容。

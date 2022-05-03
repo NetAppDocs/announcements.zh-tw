@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: style-and-syntax.html 
+keywords: announcements, style guide, syntax, asciidoc syntax, voice 
+summary: 我們更新了《貢獻者指南》、以涵蓋GitHub中所主控的NetApp文件的風格與語法。 
+last_modified: 24-Oct-2019 
+---
+= 樣式指南和語法參考
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我們已更新我們的 http://docs.netapp.com/contribute/us-en/index.html["貢獻者指南"^] 涵蓋儲存在GitHub中的NetApp文件的樣式和語法。
+
+image:style.gif[""]
+
+我們開始將部分內容儲存在GitHub中、有幾個原因。其中一個重要原因是要讓我們的社群能夠貢獻自己的能力。NetApp文件之所以更好、是因為您（客戶、合作夥伴和NetApp員工）的意見反應。
+
+提供意見回饋的方法之一、是編輯儲存在GitHub中的來源內容：
+
+image:edit.gif[""]
+
+為了協助您提交內容更新、我們在中新增下列項目 http://docs.netapp.com/contribute/us-en/index.html["貢獻者指南"^]：
+
+NetApp文件樣式指南:: 請遵循本輕量化指南、瞭解NetApp文件的風格：對話與同理心、但重點在於。
+AsciDoc參考資料:: 請遵循此參考來學習AsciiDoc語法、這是輕量標記語言、類似於Markdown。
+
+
+我們希望您能發現這些資源很有幫助、並參與NetApp文件的撰寫。如果您不想直接編輯來源內容、仍可按一下*申請文件變更*來提供您的意見反應。我們會檢視您的意見回饋、並從中加以取用。
+
+貢獻愉快！

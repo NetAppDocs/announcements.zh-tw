@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: navigation.html 
+keywords: announcements, navigation, on this page 
+summary: 現在、每個頁面都包含多個標題的頁面層級導覽。 
+last_modified: 26-Nov-2018 
+---
+= 頁面層級導覽
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+每個頁面現在都包含多個區段的頁面層級導覽。
+
+這項增強功能可讓您在捲動時輕鬆查看所在位置、並跳至頁面上的特定區段。
+
+image:navigation.gif[""]

@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: rss.html 
+keywords: announcements, rss feeds 
+summary: 我們已在文件中的每個「最新消息」頁面新增RSS按鈕、讓您可以在最愛的RSS摘要閱讀程式中接收內容更新。這些摘要可讓您隨時掌握NetApp產品與服務的新功能與增強功能。 
+last_modified: 21-Mar-2019 
+---
+= 關於新頁面的RSS摘要
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我們已在文件中的每個「最新消息」頁面新增RSS按鈕、讓您可以在最愛的RSS摘要閱讀程式中接收內容更新。這些摘要可讓您隨時掌握NetApp產品與服務的新功能與增強功能。
+
+前往您感興趣的產品或服務的「新增功能」頁面。以下是的範例 https://docs.netapp.com/us-en/cloud-tiering/reference_new.html["雲端分層服務"^]：
+
+image:rss.gif[""]
+
+視您的RSS摘要讀取程式而定、請複製頁面URL或按一下* RSS訂閱*、然後複製摘要URL。在讀卡器中搜尋URL、然後開始追蹤。每次更新頁面時、您都應該在摘要中收到更新。

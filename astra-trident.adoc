@@ -1,0 +1,34 @@
+---
+sidebar: sidebar 
+permalink: astra-trident.html 
+keywords: astra, trident, netapp, announcements, documentation 
+summary: NetApp很高興宣布Astra Trident產品文件的推出。 
+last_modified: 16-August-2021 
+---
+= Astra Trident的文件
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp很高興在此宣布Astra Trident產品文件的推出 https://www.netapp.com/support-and-training/documentation/["docs.netapp.com"]。
+
+Astra Trident是符合Container Storage介面（SCSI）的動態儲存協調程式、可在所有熱門的NetApp儲存平台上、實現儲存資源的使用與管理。
+
+https://docs.netapp.com/us-en/trident/index.html["Astra Trident文件"] 提供有助於快速入門Astra Trident的主題、包括 https://docs.netapp.com/us-en/trident/trident-concepts/intro.html["Astra Trident簡介"] 和答 https://docs.netapp.com/us-en/trident/trident-get-started/kubernetes-deploy.html["部署總覽"]、以及有關升級Astra Trident的資訊、以及更多易於瀏覽的格式。
+
+本文件擴大Astra產品系列的內容支援範圍、包括 https://docs.netapp.com/us-en/astra/index.html["Astra控制服務"]、 https://docs.netapp.com/us-en/astra-automation/["Astra Control自動化"]和 https://docs.netapp.com/us-en/astra-control-center/index.html["Astra控制中心"]。
+
+image:astra-trident.png["docs.netapp.com上顯示Astra Trident文件網站的快照。"]
+
+
+
+== 想要貢獻嗎？
+
+NetApp對內容的意見反應十分讚賞、並鼓勵使用者善用產品文件每一頁的「申請文件變更」功能。文件平台也為GitHub使用者提供內嵌內容貢獻功能。
+
+請看一下、並對本文件做出貢獻。您可以編輯、申請變更、甚至傳送意見反應。前往 https://docs.netapp.com/us-en/trident/index.html["NetApp Astra Trident文件"^] 開始。

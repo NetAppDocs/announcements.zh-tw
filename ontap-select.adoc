@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: ontap-select.html 
+keywords: announcements, documentation, ontap select 
+summary: 我們最近在ONTAP Select GitHub撰寫平台上新增了有關功能的內容。 
+last_modified: 22-Jan-2020 
+---
+= 文件供您使用ONTAP Select
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我們最近新增ONTAP Select 內容以供使用。此內容可協助您在ONTAP Select VMware ESXi上執行VMware ESXi、並提供Hypervisor獨立文件、以供使用ONTAP Select RESDeploy REST API。
+
+我們很高興能看到這項變更、因為內容撰寫團隊將多個來源的內容合併成一個可搜尋的線上文件庫。
+
+歡迎來看看ONTAP Select 這份全新的文件體驗、以供參考。您可以編輯、申請變更、甚至傳送意見反應。前往 https://docs.netapp.com/us-en/ontap-select/index.html["本文檔ONTAP Select"] 開始使用。
+
+image:ontap-select.gif[""]

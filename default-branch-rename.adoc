@@ -1,0 +1,20 @@
+---
+sidebar: sidebar 
+permalink: default-branch-rename.html 
+keywords: announcements, branches, github, main, master 
+summary: 我們已將GitHub中所有NetApp技術文件儲存庫的預設分公司從master重新命名為MAIN。這項變更是我們為了在技術文件中移除非包容性語言而持續努力的一部分。 
+last_modified: 05-Mar-2021 
+---
+= 預設分公司重新命名為「MAIN」
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我們已將中所有NetApp技術文件儲存庫的預設分公司從master重新命名為MAIN https://github.com/NetAppDocs/["GitHub"^]。這項變更是我們為了在技術文件中移除非包容性語言而持續努力的一部分。
+
+image:default-branch-rename.png[""]

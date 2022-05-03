@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: index.html 
+---
+= NetApp文件公告
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:keywords: cloud sync, documentation, docs
+
+
+[role="lead"]
+2018年2月、我們推出了以GitHub為基礎的文件 https://docs.netapp.com["docs.netapp.com"^]的目標是讓內容更快提供給您、同時讓社群參與其中。我們持續新增內容、並對內容體驗進行改善。請觀看此頁面、瞭解最新變更。
+
+以下是最新的公告：
+
+* link:astra-trident.html["Astra Trident的文件"] （2021年9月9日）
+* link:astra_control_center.html["Astra Control Center的文件"] （2021年8月05日）
+* link:default-branch-rename.html["預設分公司重新命名為「MAIN」"] （2021年3月05日）
+* link:hci-update.html["HCI文件更新"] （2020年5月29日）
+* link:pdfs.html["下載PDF"] （2020年4月28日）
+* link:look-and-feel.html["增強使用者體驗"] （2020年3月17日）
+* link:ontap-system-manager.html["適用於《系統管理程式》的文件ONTAP"] （2020年1月23日）
+* link:cloud-compliance.html["雲端法規遵循文件"] （2020年1月22日）
+* link:ontap-select.html["文件供您使用ONTAP Select"] （2020年1月22日）
+* link:hci.html["適用於《The Docs for NetApp HCI The Cloud Services and Solutions》的文件"] （2019年11月22日）
+* link:style-and-syntax.html["樣式指南和語法參考"] （2019年10月24日）
+

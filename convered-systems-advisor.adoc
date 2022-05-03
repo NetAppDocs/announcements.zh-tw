@@ -1,0 +1,24 @@
+---
+sidebar: sidebar 
+permalink: converged-systems-advisor.html 
+keywords: announcements, documentation, converged systems advisor, csa 
+summary: '整合式系統顧問文件現已上線 https://docs.netapp.com[]。' 
+last_modified: 12-Sep-2018 
+---
+= 適用於融合式系統顧問的文件
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+整合式系統顧問文件現已上線 https://docs.netapp.com["docs.netapp.com"^]。
+
+NetApp融合式系統顧問可驗證、監控FlexPod 及最佳化您的融合式基礎架構部署、確保為您的商業應用程式提供最佳效能與可用度。
+
+前往 https://docs.netapp.com/us-en/converged-systems-advisor/["融合式系統顧問文件"^] 以瞭解如何開始使用。
+
+image:converged-systems-advisor.gif[""]

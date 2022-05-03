@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: astra_control_center.html 
+keywords: astra, netapp, announcements, documentation, hci, hybrid, cloud, astra control center, astra control 
+summary: NetApp很榮幸宣布Astra Control Center產品文件的推出。 
+last_modified: 16-August-2021 
+---
+= Astra Control Center的文件
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp很榮幸宣布Astra Control Center產品文件的推出。
+
+本文件擴大Astra產品系列的內容支援、包括Astra Control Service、Astra Control Automation和Astra Trident。Astra Control Center可為Kubernetes啟用內部部署應用程式感知、資料管理功能、並將Kubernetes連線至新的或現有的內部部署ONTAP 式更新。
+
+Astra Control Center文件網站提供主題、協助您快速開始使用Astra Control Center、包括 https://docs.netapp.com/us-en/astra-control-center/concepts/intro.html["Astra Control Center簡介"^] 和答 https://docs.netapp.com/us-en/astra-control-center/get-started/quick-start.html["Astra Control Center快速入門"^]、以及使用Astra Control Center來管理Kubernetes叢集、應用程式、儲存後端等相關資訊。
+
+Astra產品系列文件可從下列網址取得：
+
+* https://docs.netapp.com/us-en/astra-control-center/index.html["Astra Control Center文件"^]
+* https://docs.netapp.com/us-en/astra/index.html["Astra Control Service文件"^]
+* https://docs.netapp.com/us-en/astra-automation/["Astra Control自動化文件"^]
+* https://netapp-trident.readthedocs.io/en/latest/index.html["Astra Trident文件"^]
+
+
+NetApp對內容的意見反應十分讚賞、並鼓勵使用者善用產品文件每一頁的「申請文件變更」功能。文件平台也為GitHub使用者提供內嵌內容貢獻功能。
+
+請看一下、並對本文件做出貢獻。您可以編輯、申請變更、甚至傳送意見反應。前往 https://docs.netapp.com/us-en/astra-control-center/index.html["NetApp Astra Control Center文件"^] 開始。
+
+image:astra_control_center_doc2.gif["docs.netapp.com上顯示Astra Control Center文件網站的快照。"]

@@ -1,0 +1,42 @@
+---
+sidebar: sidebar 
+permalink: look-and-feel.html 
+keywords: announcements, documentation, user experience, layout, style, breadcrumbs, contribute 
+summary: 我們很高興在此宣布、我們已針對docs.netapp.com上的GitHub文件、增強使用者體驗。這些變更可在NetApp線上內容中提供更一致的體驗。 
+last_modified: 17-Mar-2020 
+---
+= 增強使用者體驗
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我們很高興在此宣布、我們已針對以GitHub為基礎的文件增強使用者體驗 https://docs.netapp.com["docs.netapp.com"]。這些變更可在NetApp線上內容中提供更一致的體驗。
+
+
+
+== 配置與風格
+
+現在、文件的版面配置和樣式與您在netapp.com上看到的內容更為相似。這包括字型和色彩、左右導覽的配置、以及頁首和頁尾。
+
+image:layout.gif[""]
+
+
+
+== 階層連結
+
+我們新增了階層架構、讓您更容易瀏覽NetApp文件。例如、您可以按一下* Documentation *返回docs.netapp.com。
+
+image:breadcrumbs.gif[""]
+
+
+
+== 貢獻連結
+
+在頁面層級導覽上方、已整合提供內容的連結。當您捲動瀏覽內容時、這些連結一律可見。因此、如果您在頁面中的任何地方發現問題、您可以按一下按鈕直接提交變更、或提供您的意見反應給我們。
+
+image:contribute.gif[""]

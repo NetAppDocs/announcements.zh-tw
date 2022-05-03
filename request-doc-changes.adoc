@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: request-doc-changes.html 
+keywords: announcements, github issues, request doc changes, request changes 
+summary: 如果您想要求變更文件、而不想直接編輯來源內容、現在可以按一下「Request Doc Changes」（索取文件變更）來提供意見反應。 
+last_modified: 19-Feb-2019 
+---
+= 申請文件變更
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+如果您想要求變更文件、而不想直接編輯來源內容、現在您可以按一下*申請文件變更*來提供意見反應。
+
+此新按鈕會出現在每個頁面的頂端：
+
+image:request-doc-changes.png[""]
+
+當您按一下*要求文件變更*時、系統會提示您建立或登入GitHub帳戶（免費且易於建立帳戶）。
+
+登入之後、會出現一個表單、以建立新的GitHub問題。文字方塊會預先填入頁面的標題和URL。請勿刪除此資訊、這有助於我們找出您發現問題的頁面。
+
+image:github-issue.png[""]
+
+請在文字方塊中提供詳細資料、然後按一下*提交新問題*、為您的申請建立問題。
+
+我們將會檢閱您的意見反應、並從中加以取用。

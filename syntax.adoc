@@ -1,0 +1,56 @@
+---
+sidebar: sidebar 
+permalink: syntax.html 
+keywords: announcements, syntax highlighting 
+summary: 我們新增醒目提示功能、讓您更輕鬆地檢視最熱門語言的語法。 
+last_modified: 03-Dec-2018 
+---
+= 語法醒目提示
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我們新增醒目提示功能、讓您更輕鬆地檢視最熱門語言的語法。
+
+例如、從NetApp Cloud Central取得使用者權杖的語法如下：
+
+[source, http]
+----
+POST https://netapp-cloud-account.auth0.com/oauth/token
+Header: Content-Type: application/json
+Body:
+{
+              "username": "<user_email>",
+              "scope": "profile",
+              "audience": "https://api.cloud.netapp.com",
+              "client_id": "UaVhOIXMWQs5i1WdDxauXe5Mqkb34NJQ",
+              "grant_type": "password",
+              "password": "<user_password>"
+}
+----
+如您所見、我們也新增了「複製」按鈕、方便您將語法複製到剪貼簿。
+
+以下是顯示Json輸出的另一個範例：
+
+[source, json]
+----
+[
+    {
+        "header": {
+            "requestId": "init",
+            "clientId": "init",
+            "agentId": "init"
+        },
+        "payload": {
+            "init": {}
+        },
+        "id": "5801"
+    }
+]
+----
+我們希望您能發現這項增強功能很有幫助！

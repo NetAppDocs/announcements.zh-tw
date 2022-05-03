@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: cloud-compliance.html 
+keywords: announcements, documentation, cloud compliance 
+summary: 在2019年底之前、我們在Cloud Manager文件中新增Cloud Compliance服務的內容。 
+last_modified: 22-Jan-2020 
+---
+= 雲端法規遵循文件
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+在2019年底之前、我們在Cloud Manager文件中新增雲端法規遵循服務的內容。
+
+Cloud Compliance是Cloud Volumes ONTAP 一套資料隱私與法規遵循服務、適用於AWS和Azure中的功能。Cloud Compliance採用人工智慧（AI）導向技術、可協助組織瞭解資料內容、並識別Cloud Volumes ONTAP 整個各個系統的敏感資料。
+
+雲端法規遵循是透過 Cloud Manager 進行營運與管理。您可以從 Cloud Manager 的「 * Compliance * 」（ * 法規遵循 * ）索引標籤存取 Cloud Compliance 功能。
+
+前往 https://docs.netapp.com/us-en/occm/concept_cloud_compliance.html["Cloud Manager文件"] 以瞭解如何開始使用。
+
+image:cloud-compliance.gif["Cloud Manager文件中Cloud Compliance內容的快照"]。

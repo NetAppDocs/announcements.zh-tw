@@ -1,0 +1,28 @@
+---
+sidebar: sidebar 
+permalink: hci.html 
+keywords: announcements, documentation, hci, hybrid, cloud 
+summary: 現在提供《The Docs for NetApp HCI The Solutions》（《關於解決方案與服務的文件》）。 
+last_modified: 20-Dec-2019 
+---
+= 文件供您使用NetApp HCI
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我們已新增文件、用於在NetApp HCI 支援的基礎上提供雲端服務、以及存取NetApp HCI 《支援解決方案目錄》。
+
+前往 https://docs.netapp.com/us-en/hci/index.html["解決方案NetApp HCI"] 以瞭解如何開始使用NetApp HCI 有關支援的雲端服務、並瞭解如何搭配NetApp HCI 使用解決方案。
+
+雲端服務資訊說明如何使用NetApp HCI 「支援混合雲控制」來啟用雲端服務、如何使用NetApp Kubernetes Service來建立叢集並快速部署應用程式、以及如何NetApp HCI 使用NetApp Fabric Orchestrator在整個過程中建立Cloud Volumes onFabric Orchestrator是集中式儲存與資料管理控制層、可在任何地方探索及管理您的儲存資產與資料資產。
+
+image:hci_cloudservices.gif["解決方案：Cloud Services文件NetApp HCI"]
+
+我們也新增NetApp HCI 了《支援客戶部署及營運私有雲端所需的資訊》《支援各種內部與外部使用案例》《支援解決方案目錄》。解決方案在DevOps、終端使用者運算、企業應用程式、人工智慧、資料保護及Data Fabric管理等技術領域、提供跨公有雲、私有雲、混合雲及多雲端的加值功能。NetApp HCI
+
+image:hci_solutions_catalog.gif["解決方案目錄NetApp HCI"]

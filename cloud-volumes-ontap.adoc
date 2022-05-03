@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: cloud-volumes-ontap.html 
+keywords: announcements, documentation, cloud volumes ontap, ontap cloud, cloud ontap 
+summary: '如需發行說明Cloud Volumes ONTAP 、請參閱 https://docs.netapp.com[]。' 
+last_modified: 04-Jun-2018 
+---
+= 文件供您使用Cloud Volumes ONTAP
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+如需發行說明Cloud Volumes ONTAP 、請參閱 https://docs.netapp.com["docs.netapp.com"^]。
+
+支援各種使用案例的資料控制與企業級儲存功能、包括檔案共用與區塊層級儲存服務NAS與SAN傳輸協定（NFS、SMB與iSCSI）、災難恢復（DR）、備份與歸檔、Cloud Volumes ONTAP DevOps、資料庫（SQL、Oracle、NoSQL）或任何其他企業工作負載。
+
+前往 https://docs.netapp.com/us-en/cloud-volumes-ontap/["本文檔Cloud Volumes ONTAP"^] 以檢閱版本資訊。如果您需要說明如何部署及管理Cloud Volumes ONTAP 功能的文件、請參閱 https://docs.netapp.com/us-en/occm/["Cloud Manager文件"^]。

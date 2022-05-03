@@ -1,0 +1,72 @@
+---
+settings:
+  name: Announcements
+  rss_page: index.html
+  internal:
+    pdf_enabled: true
+  prod:
+    pdf_enabled: true
+    harmony_enabled: false
+  langs: zh-tw,us-en,ja-jp,zh-cn,ko-kr
+sidebar:
+  entries:
+  - title: 歡迎！
+    url: "/index.html"
+  - title: 2021年
+    entries:
+    - title: Astra Trident的文件
+      url: "/astra-trident.html"
+    - title: Astra Control Center的文件
+      url: "/astra_control_center.html"
+    - title: 預設分公司重新命名為MAIN
+      url: "/default-branch-rename.html"
+  - title: 2020年
+    entries:
+    - title: 更新資訊NetApp HCI
+      url: "/hci-update.html"
+    - title: 下載PDF
+      url: "/pdfs.html"
+    - title: 增強使用者體驗
+      url: "/look-and-feel.html"
+    - title: 適用於《系統管理程式》的文件ONTAP
+      url: "/ontap-system-manager.html"
+    - title: 雲端法規遵循文件
+      url: "/cloud-compliance.html"
+    - title: 文件供您使用ONTAP Select
+      url: "/ontap-select.html"
+  - title: 2019年
+    entries:
+    - title: 適用於《The Docs for NetApp HCI The Cloud Services and Solutions》的文件
+      url: "/hci.html"
+    - title: 樣式指南和語法參考
+      url: "/style-and-syntax.html"
+    - title: SaaS Backup for Salesforce的文件
+      url: "/salesforce.html"
+    - title: 文件供您使用Active IQ
+      url: "/active-iq.html"
+    - title: 新增內容頁面的RSS摘要
+      url: "/rss.html"
+    - title: 雲端分層的文件
+      url: "/cloud-tiering.html"
+    - title: GitHub Avatars專為貢獻者而打造
+      url: "/avatars.html"
+  - title: 2018年
+    entries:
+    - title: 語法醒目提示
+      url: "/syntax.html"
+    - title: 頁面層級導覽
+      url: "/navigation.html"
+    - title: 適用於融合式系統顧問的文件
+      url: "/converged-systems-advisor.html"
+    - title: 申請文件變更的新方法
+      url: "/request-doc-changes.html"
+    - title: 文件供您使用Cloud Insights
+      url: "/cloud-insights.html"
+    - title: 文件供您使用Cloud Volumes ONTAP
+      url: "/cloud-volumes-ontap.html"
+    - title: 適用於AWS的文件Cloud Volumes Service
+      url: "/cloud-volumes-service.html"
+    - title: 適用於Office 365的SaaS備份文件
+      url: "/office365.html"
+    - title: GitHub中的NetApp文件簡介
+      url: "/introduction.html"

@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: cloud-volumes-service.html 
+keywords: announcements, documentation, cloud volumes ontap, ontap cloud, cloud ontap 
+summary: '我們已新增新NetApp服務的文件。AWS適用的文件現Cloud Volumes Service 已可在取得 https://docs.netapp.com[]。' 
+last_modified: 31-May-2018 
+---
+= 適用於AWS的文件Cloud Volumes Service
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+我們已新增新NetApp服務的文件。AWS適用的文件現Cloud Volumes Service 已可在取得 https://docs.netapp.com["docs.netapp.com"^]。
+
+NetApp Cloud Volumes Service for AWS 是雲端原生檔案服務、可透過 NFS 和 SMB 提供 NAS 磁碟區的 All Flash 效能。此服務可讓任何工作負載（包括舊版應用程式）在 AWS 雲端上執行。
+
+前往 https://docs.netapp.com/us-en/cloud_volumes/aws/["AWS文件Cloud Volumes Service"^] 以瞭解如何開始使用。

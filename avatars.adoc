@@ -1,0 +1,26 @@
+---
+sidebar: sidebar 
+permalink: avatars.html 
+keywords: announcements, avatars, github, contributors 
+summary: 文件中的每個頁面現在都包含GitHub Avatars、這些人都是對頁面做出貢獻的人。這項變更有助於實現NetApp Docs社群導向的目標。 
+last_modified: 19-Feb-2019 
+---
+= GitHub為內容撰稿人提供的Avatar
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+文件中的每個頁面現在都包含GitHub Avatars、這些人都是對頁面做出貢獻的人。這項變更有助於實現NetApp Docs社群導向的目標。
+
+您將會看到GitHub虛擬人物、針對任何透過建立拉出要求而承諾變更來源內容的人。貢獻者可以是客戶、NetApp合作夥伴或員工。範例如下：
+
+image:avatars.gif[""]
+
+無論您是專家或新手、都可以提交內容變更、而且您的貢獻也會大不相同。
+
+請注意、Avatars夠小、每次查看文件時、您都不會被NetApp作家的臉所壓倒：[&#128521]

@@ -1,0 +1,31 @@
+---
+sidebar: sidebar 
+permalink: hci-update.html 
+keywords: announcements, documentation, hci, hybrid, cloud 
+summary: 有了這個版本的發行版、我們很高興在此宣布、我們在docs.netapp.com中新增了更多有關這個版本的資訊。NetApp HCI NetApp HCI 
+last_modified: 29-May-2020 
+---
+= 文件更新NetApp HCI 以供更新
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+有了這個版本的發行版、我們很高興在此宣布、我們在docs.netapp.com中新增了更多有關這個版本的資訊。NetApp HCI NetApp HCI
+
+針對此更新、您將會發現下列新主題：
+
+* 版本資訊區段可收集NetApp HCI 有關適用於NetApp Element vCenter Server的更新內容與版本資訊、包括VMware vCenter Server的更新、更新說明、VMware vCenter Server管理服務與NetApp Element VMware外掛程式
+* 全新的入門安裝與部署總覽
+* 更多關於擴充及監控系統的操作方法
+* 基本概念的一節、例如叢集和節點、以及可設定以管理效能之服務層級品質的說明
+* 集中化的位置、可讓您瞭NetApp HCI 解如何升級端點對端點、包括如何更新管理服務、HealthTools、Element軟體、以及vCenter Server的Element外掛程式
+
+
+歡迎瀏覽本文件NetApp HCI 以供參考。您可以編輯、申請變更、甚至傳送意見反應。前往 https://docs.netapp.com/us-en/hci/docs/index.html["本文檔NetApp HCI"^] 開始。
+
+image:hci-update.gif["顯示HCI文件網站的快照、網址為docs.netapp.com。"]
