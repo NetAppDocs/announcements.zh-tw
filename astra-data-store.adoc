@@ -1,7 +1,7 @@
 ---
 sidebar: sidebar 
 permalink: astra-data-store.html 
-keywords: astra, netapp, announcements, documentation, hci, hybrid, cloud, astra data store 
+keywords: astra, netapp, announcements, documentation, cloud, astra data store 
 summary: NetApp很榮幸宣布Astra Data Store產品文件的推出。 
 ---
 = Astra Data Store預覽文件

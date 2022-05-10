@@ -1,0 +1,30 @@
+---
+sidebar: sidebar 
+permalink: astra-family.html 
+keywords: astra, netapp, announcements, documentation, cloud, astra control, astra data store 
+summary: NetApp很高興宣布Astra產品系列的產品文件已推出。 
+---
+= Astra產品系列的文件
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp很榮幸在此宣布Astra產品系列的產品文件發表 https://docs.netapp.com/us-en/astra-family/index.html["Astra產品系列文件"^]。
+
+在此頁面上、您可以設定篩選條件、僅查看所需產品的文件。
+
+Astra產品系列的文件可在以下網址個別取得：
+
+* https://docs.netapp.com/us-en/astra-control-service/index.html["Astra Control Service文件"^]
+* https://docs.netapp.com/us-en/astra-control-center/index.html["Astra Control Center文件"^]
+* https://docs.netapp.com/us-en/astra-data-store/index.html["Astra Data Store文件"^]
+* https://docs.netapp.com/us-en/trident/index.html["Astra Trident文件"^]
+* https://docs.netapp.com/us-en/astra-automation/["Astra Control自動化文件"^]
+
+
+image:astra-family-doc.png["docs.netapp.com上顯示Astra產品系列文件網站的快照。"]
