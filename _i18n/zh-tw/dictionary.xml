@@ -253,4 +253,20 @@
   <block id="071ed14a37855c29609308bb1decd55d" category="sidebar">申請文件變更的新方法</block>
   <block id="9b1c32128378aa74449702a04d7c2acf" category="sidebar">適用於Office 365的SaaS備份文件</block>
   <block id="e148fb94b2111f44240663465c676324" category="sidebar">GitHub中的NetApp文件簡介</block>
+  <block id="53c97bf46bf800b6a33e8ff980b66d42" category="summary">NetApp很榮幸宣布Astra Data Store產品文件的推出。</block>
+  <block id="a6cbfa04701bd567fe3bf8ce91ea2b7e" category="doc">Astra Data Store預覽文件</block>
+  <block id="f89b313476e569f998bee434dd0dc86a" category="paragraph">NetApp很榮幸宣布Astra Data Store預覽產品文件的推出。</block>
+  <block id="20009171a360ffaac6edddffe5a3fc2d" category="paragraph">Astra Data Store為Kubernetes原生容器化應用程式提供持續的儲存與資料管理服務。</block>
+  <block id="37959e564907b732d47b2d2b7fb246ae" category="inline-link">Astra Data Store簡介</block>
+  <block id="f0b65328b01ef9e6301a81ee7e9ed23f" category="inline-link">Astra Data Store快速入門</block>
+  <block id="d5065eb03a82c1ae3a1bf0a4ab3d7172" category="paragraph">Astra Data Store文件網站提供主題、協助您快速開始使用Astra Data Store、包括<block ref="80de2ad386e9c8f92629f9d9f11704ae" category="inline-link-rx"></block> 和答<block ref="4415b524e01228e417a30a741d057489" category="inline-link-rx"></block>。</block>
+  <block id="8c12e73d5653755d89cc3e42b0fa4b92" category="list-text"><block ref="8c12e73d5653755d89cc3e42b0fa4b92" category="inline-link-rx"></block></block>
+  <block id="be1c3d3113c4023e29e8dd947523c711" category="inline-link">Astra Data Store文件</block>
+  <block id="c54241e3258a450b02a723d6d751a4f1" category="list-text"><block ref="c54241e3258a450b02a723d6d751a4f1" category="inline-link-rx"></block></block>
+  <block id="4a2ab62188738135163aaaaeab1d6cfe" category="list-text"><block ref="4a2ab62188738135163aaaaeab1d6cfe" category="inline-link-rx"></block></block>
+  <block id="014828bc1739673f4282e9c1e033c817" category="inline-link">NetApp Astra Data Store文件</block>
+  <block id="23a174d0fecd8b79bd5e5f2fd9a4b732" category="paragraph">請看一下、並對本文件做出貢獻。您可以編輯、申請變更、甚至傳送意見反應。前往<block ref="c1fdd849cd3e68be35f6562f41c2974e" category="inline-link-rx"></block> 開始。</block>
+  <block id="156e6378a5fcd89f3957166fe15f0100" category="inline-image-macro">docs.netapp.com上顯示Astra Data Store文件網站的快照。</block>
+  <block id="96ded59f7edd6be28a9cc2e4c72e2154" category="paragraph"><block ref="96ded59f7edd6be28a9cc2e4c72e2154" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="df2d39488ab03675c8a9dc9281c24061" category="sidebar">Astra資料儲存區的文件</block>
 </blocks>

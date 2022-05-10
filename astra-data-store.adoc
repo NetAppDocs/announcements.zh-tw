@@ -1,0 +1,36 @@
+---
+sidebar: sidebar 
+permalink: astra-data-store.html 
+keywords: astra, netapp, announcements, documentation, hci, hybrid, cloud, astra data store 
+summary: NetApp很榮幸宣布Astra Data Store產品文件的推出。 
+---
+= Astra Data Store預覽文件
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+NetApp很榮幸宣布Astra Data Store預覽產品文件的推出。
+
+Astra Data Store為Kubernetes原生容器化應用程式提供持續的儲存與資料管理服務。
+
+Astra Data Store文件網站提供主題、協助您快速開始使用Astra Data Store、包括 https://docs.netapp.com/us-en/astra-data-store/concepts/intro.html["Astra Data Store簡介"^] 和答 https://docs.netapp.com/us-en/astra-data-store/get-started/quick-start.html["Astra Data Store快速入門"^]。
+
+Astra產品系列文件可從下列網址取得：
+
+* https://docs.netapp.com/us-en/astra-control-service/index.html["Astra Control Service文件"^]
+* https://docs.netapp.com/us-en/astra-control-center/index.html["Astra Control Center文件"^]
+* https://docs.netapp.com/us-en/astra-data-store/index.html["Astra Data Store文件"^]
+* https://docs.netapp.com/us-en/trident/index.html["Astra Trident文件"^]
+* https://docs.netapp.com/us-en/astra-automation/["Astra Control自動化文件"^]
+
+
+NetApp對內容的意見反應十分讚賞、並鼓勵使用者善用產品文件每一頁的「申請文件變更」功能。文件平台也為GitHub使用者提供內嵌內容貢獻功能。
+
+請看一下、並對本文件做出貢獻。您可以編輯、申請變更、甚至傳送意見反應。前往 https://docs.netapp.com/us-en/astra-data-store/index.html["NetApp Astra Data Store文件"^] 開始。
+
+image:astra-data-store-doc.png["docs.netapp.com上顯示Astra Data Store文件網站的快照。"]
