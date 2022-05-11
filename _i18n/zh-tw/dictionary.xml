@@ -28,7 +28,6 @@
   <block id="fbcea8f4dc514cb9ce5836b06a6d4eeb" category="paragraph">前往<block ref="a4e64802703d44f75fce5d890692ece4" category="inline-link-rx"></block> 以瞭解如何開始使用。</block>
   <block id="de39e287c52b06825de260bae8849241" category="paragraph"><block ref="de39e287c52b06825de260bae8849241" category="inline-image-macro-rx" type="image"></block></block>
   <block id="c2090ebcb81deebf8dfe7bcc3bf5b97e" category="doc">NetApp文件公告</block>
-  <block id="7c96569c18e233bc3aa0c678f6c737a3" category="paragraph">2018年2月、我們推出了以GitHub為基礎的文件<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block>的目標是讓內容更快提供給您、同時讓社群參與其中。我們持續新增內容、並對內容體驗進行改善。請觀看此頁面、瞭解最新變更。</block>
   <block id="76d676de13da507e21b2b97274f3143d" category="paragraph">以下是最新的公告：</block>
   <block id="b2659ea7bd2dc02b176860f71e92c02d" category="inline-link-macro">Astra Trident的文件</block>
   <block id="a6c03c83182e8a5c08fda690a810ec34" category="list-text"><block ref="85b751cc6a57837c56016d0c4fe6be5f" category="inline-link-macro-rx"></block> （2021年9月9日）</block>
@@ -277,4 +276,7 @@
   <block id="8509a89843a1cc311a72568e21b9f186" category="paragraph">Astra產品系列的文件可在以下網址個別取得：</block>
   <block id="1f4fecd353e4238c2e06f3ef57ff2e17" category="inline-image-macro">docs.netapp.com上顯示Astra產品系列文件網站的快照。</block>
   <block id="381832760c8906b714e74dd9ad500811" category="paragraph"><block ref="381832760c8906b714e74dd9ad500811" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="cc1e2e4d06b5279262a7484fd9caf5e8" category="paragraph">2018年2月、我們推出了以GitHub為基礎的文件<block ref="d0440a355c48ec1048208da6a6fa8483" category="inline-link-rx"></block> 目標是讓內容更快提供給您、同時讓社群貢獻更多。我們持續新增內容、並對內容體驗進行改善。請觀看此頁面、瞭解最新變更。</block>
+  <block id="c4fefb6ca24717726d93c2d157040d85" category="list-text"><block ref="88161053bf68ebf3ccb9af70047493c1" category="inline-link-macro-rx"></block> （2021年12月12日）</block>
+  <block id="32f90be6a0e21853e772122e0def388b" category="list-text"><block ref="20a80c78f416319e0e8d17d7e76a9dbb" category="inline-link-macro-rx"></block> （2021年11月11日）</block>
 </blocks>
